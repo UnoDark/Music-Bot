@@ -59,7 +59,7 @@
 
 
 ```console
-logi@MacBook~ $ git clone https://github.com/LOGI-LAB/music-video-bot
+logi@MacBook~ $ git clone https://github.com/LOGI-LAB/Music-Bot
 logi@MacBook~ $ cd music-video-bot
 logi@MacBook~ $ pip3 install -U -r requirements.txt
 logi@MacBook~ $ cp sample.env .env
@@ -139,7 +139,7 @@ logi@MacBook~ $ python3 gen_session.py
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/LOGI-LAB/music-video-bot/blob/master/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/LOGI-LAB/Music-Bot/blob/master/LICENSE) See `LICENSE.md` for more information.
 
 ## Acknowledgements
 

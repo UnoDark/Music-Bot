@@ -39,11 +39,7 @@ def start_pannel():
                     text="🕊.⋆settings༒۝꧂", callback_data="settingm"
                 )
             ],
-            [
-                InlineKeyboardButton(
-                    text="🕊.⋆Who is this༒۝꧂", url="https://t.me/cl_me_logesh"
-                )
-            ],            
+            
         ]
         return f"🎛  **This is {MUSIC_BOT_NAME}**", buttons
     if not SUPPORT_CHANNEL and SUPPORT_GROUP:
@@ -73,7 +69,7 @@ def start_pannel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/music-video-bot"
+                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
                     )
                 ],
         ]
@@ -105,7 +101,7 @@ def start_pannel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/music-video-bot"
+                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
                     )
                 ],
         ]
@@ -140,7 +136,7 @@ def start_pannel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/music-video-bot"
+                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
                     )
                 ],
         ]
@@ -166,7 +162,11 @@ def private_panel():
                 text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
-        ],
+                InlineKeyboardButton(
+                    text="🕊.ᴄᴏᴅᴇ ᴏᴡɴᴇʀ ༒۝꧂", url="https://t.me/cl_me_logesh"
+                )            
+            
+        ],       
         ]
         return f"🎛  **This is {MUSIC_BOT_NAME}**", buttons
     if not SUPPORT_CHANNEL and SUPPORT_GROUP:
@@ -192,12 +192,15 @@ def private_panel():
                 text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
+                InlineKeyboardButton(
+                    text="🕊.ᴄᴏᴅᴇ ᴏᴡɴᴇʀ ༒۝꧂", url="https://t.me/cl_me_logesh"
+                )              
         ],
           [
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/music-video-bot"
+                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
                     )
                 ],
         ]
@@ -230,7 +233,7 @@ def private_panel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/music-video-bot"
+                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
                     )
                 ],
         ]
@@ -266,7 +269,7 @@ def private_panel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/music-video-bot"
+                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
                     )
                 ],
         ]

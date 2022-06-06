@@ -1,7 +1,7 @@
 {
   "name": "logi Music and video Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/LOGI-LAB/music-video-bot",
+  "repository": "https://github.com/LOGI-LAB/Music-Bot",
   "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1c63d830343079.564a747651c89.jpg",
   "keywords": [
   "python3",
@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/LOGI-LAB/music-video-bot",
+  "repository": "https://github.com/LOGI-LAB/Music-Bot",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -122,7 +122,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/LOGI-LAB/music-video-bot",
+      "value": "https://github.com/LOGI-LAB/Music-Bot",
       "required": true
     },
     "UPSTREAM_BRANCH": {

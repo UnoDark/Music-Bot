@@ -22,7 +22,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO", "https://github.com/LOGI-LAB/music-video-bot"
+    "UPSTREAM_REPO", "https://github.com/LOGI-LAB/Music-Bot"
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 

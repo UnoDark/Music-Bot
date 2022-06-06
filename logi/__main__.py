@@ -11,11 +11,11 @@ from rich.table import Table
 from youtubesearchpython import VideosSearch
 
 from config import (LOG_GROUP_ID, LOG_SESSION, STRING1, STRING2, STRING3,
-                    STRING4, STRING5)
+                    STRING4, STRING5 , OWNER_USERNAME , SUPPORT_CHANNEL , SUPPORT_GROUP)
 from logi import (ASS_CLI_1, ASS_CLI_2, ASS_CLI_3, ASS_CLI_4, ASS_CLI_5,
                    ASSID1, ASSID2, ASSID3, ASSID4, ASSID5, ASSNAME1, ASSNAME2,
                    ASSNAME3, ASSNAME4, ASSNAME5, BOT_ID, BOT_NAME, LOG_CLIENT,
-                   OWNER_ID, app)
+                   OWNER_ID, app )
 from logi.Core.Clients.cli import LOG_CLIENT
 from logi.Core.PyTgCalls.logi import (pytgcalls1, pytgcalls2, pytgcalls3,
                                         pytgcalls4, pytgcalls5)
@@ -229,11 +229,18 @@ async def initiate_bot():
     console.print(f"\n[red]Stopping Bot")
 
 
-home_text_pm = f"""Hello ,
-My name is {BOT_NAME}.
-I'm Telegram Voice Chat Audio with some useful features.
-
-All commands can be used with: / """
+home_text_pm = f"""**━━━━━━━━━━━━━━━━━━━━━━━━
+💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ  sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs🌼 ..
+┏━━━━━━━━━━━━━━━━━┓
+┣★ ᴋɪɴɢ    : [🥰](https://t.me/{OWNER_USERNAME})
+┣★ ᴜᴘᴅᴀᴛᴇs : [Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ](https://t.me/{SUPPORT_CHANNEL})
+┣★ ɢʀᴏᴜᴘ   : [ᴊᴏɪɴ](https://t.me/{SUPPORT_GROUP})
+┣★ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ɢɪᴛʜᴜʙ](https://github.com/LOGI-LAB/Music-Bot)
+┗━━━━━━━━━━━━━━━━━┛
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
+ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/cl_me_logesh) ...
+━━━━━━━━━━━━━━━━━━━━━━━━**"""
 
 
 @app.on_message(filters.command("help") & filters.private)
