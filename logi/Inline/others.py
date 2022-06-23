@@ -44,7 +44,7 @@ def others_markup(videoid, user_id):
         ],
        [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -72,7 +72,7 @@ def download_markup(videoid, user_id):
         ],
        [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
