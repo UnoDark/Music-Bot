@@ -18,7 +18,7 @@ def check_markup(user_name, user_id, videoid):
         [InlineKeyboardButton(text="🗑 Close Menu", callback_data="close")],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -41,7 +41,7 @@ def playlist_markup(user_name, user_id, videoid):
         [InlineKeyboardButton(text="🗑 Close Menu", callback_data="close")],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -217,7 +217,7 @@ def third_playlist_markup(user_name, user_id, third_name, userid, videoid):
         [InlineKeyboardButton(text="🗑 Close", callback_data="close")],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -253,7 +253,7 @@ def fetch_playlist(user_name, type, genre, user_id, url):
         [InlineKeyboardButton(text="🗑 Close Menu", callback_data=f"close")],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -272,7 +272,7 @@ def delete_playlist_markuup(type, genre):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
