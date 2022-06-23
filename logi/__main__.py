@@ -236,10 +236,10 @@ home_text_pm = f"""**━━━━━━━━━━━━━━━━━━━�
 ┣★ ᴋɪɴɢ    : [🥰](https://t.me/{OWNER_USERNAME})
 ┣★ ᴜᴘᴅᴀᴛᴇs : [Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ](https://t.me/{SUPPORT_CHANNEL})
 ┣★ ɢʀᴏᴜᴘ   : [ᴊᴏɪɴ](https://t.me/{SUPPORT_GROUP})
-┣★ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ɢɪᴛʜᴜʙ](https://github.com/LOGI-LAB/Music-Bot)
+┣★ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ɢɪᴛʜᴜʙ](https://github.com/UnoDark/Music-Bot)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/cl_me_logesh) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/OneUnoOnly) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**"""
 
 
