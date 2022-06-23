@@ -28,7 +28,7 @@ def song_markup(videoid, duration, user_id, query, query_type):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="UNO",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -56,7 +56,7 @@ def song_download_markup(videoid, user_id):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="UNO",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
