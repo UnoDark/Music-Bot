@@ -37,7 +37,7 @@ def url_markup(videoid, duration, user_id, query, query_type):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -65,7 +65,7 @@ def url_markup2(videoid, duration, user_id):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -192,7 +192,7 @@ def secondary_markup(videoid, user_id):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -243,7 +243,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -273,7 +273,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
         ],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -333,7 +333,7 @@ audio_markup2 = InlineKeyboardMarkup(
         [InlineKeyboardButton("🗑 Close Menu", callback_data="close")],
       [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
