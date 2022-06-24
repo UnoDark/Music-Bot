@@ -1,7 +1,7 @@
 {
-  "name": "logi Music and video Bot",
+  "name": "SUKUNA Music Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/LOGI-LAB/Music-Bot",
+  "repository": "https://github.com/UnoDark/Music-Bot",
   "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1c63d830343079.564a747651c89.jpg",
   "keywords": [
   "python3",
@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/LOGI-LAB/Music-Bot",
+  "repository": "https://github.com/UnoDark/Music-Bot",
   "stack": "container",
   "env": {
     "API_ID": {
