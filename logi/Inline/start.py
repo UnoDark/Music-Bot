@@ -31,12 +31,12 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data="shikhar"
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆settings༒۝꧂", callback_data="settingm"
+                    text="settings", callback_data"=settingm"
                 )
             ],
             
@@ -46,22 +46,22 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data="shikhar"
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆settings༒۝꧂", callback_data="settingm"
+                    text="settings", callback_data="settingm"
                 )
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆official Group༒۝꧂", url=f"{SUPPORT_GROUP}"
+                    text="official Group", url=f"{SUPPORT_GROUP}"
                 ),
             ],
            [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -69,7 +69,7 @@ def start_pannel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
+                        "source code", url="http://github.com/UnoDark/Music-Bot"
                     )
                 ],
         ]
@@ -78,22 +78,22 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data"shikhar"
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆settings༒۝꧂", callback_data="settingm"
+                    text="settings", callback_data"settingm"
                 )
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆official channel༒۝꧂", url=f"{SUPPORT_CHANNEL}"
+                    text="official channel", url=f"{SUPPORT_CHANNEL}"
                 ),
             ],
            [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -101,7 +101,7 @@ def start_pannel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
+                        "source code", url="https://github.com/UnoDark/Music-Bot"
                     )
                 ],
         ]
@@ -110,25 +110,25 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data="shikhar"
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆settings༒۝꧂", callback_data="settingm"
+                    text="settings", callback_data="settingm"
                 )
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆official channel༒۝꧂", url=f"{SUPPORT_CHANNEL}"
+                    text="official channel", url=f"{SUPPORT_CHANNEL}"
                 ),
                 InlineKeyboardButton(
-                    text="🕊.⋆official Group༒۝꧂", url=f"{SUPPORT_GROUP}"
+                    text="official Group", url=f"{SUPPORT_GROUP}"
                 ),
             ],
            [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -136,7 +136,7 @@ def start_pannel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
+                        "source code", url="https://github.com/UnoDark/Music-Bot"
                     )
                 ],
         ]
@@ -148,7 +148,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data="shikhar"
                 ),
             ],
             [
@@ -159,11 +159,11 @@ def private_panel():
             ],
            [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
                 InlineKeyboardButton(
-                    text="🕊.ᴄᴏᴅᴇ ᴏᴡɴᴇʀ ༒۝꧂", url="https://t.me/cl_me_logesh"
+                    text="ᴄᴏᴅᴇ ᴏᴡɴᴇʀ", url="https://t.me/OneUnoOnly"
                 )            
             
         ],       
@@ -173,7 +173,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data="shikhar"
                 ),
             ],
             [
@@ -184,23 +184,23 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆official Group༒۝꧂", url=f"{SUPPORT_GROUP}"
+                    text="official Group", url=f"{SUPPORT_GROUP}"
                 ),
             ],
            [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
                 InlineKeyboardButton(
-                    text="🕊.ᴄᴏᴅᴇ ᴏᴡɴᴇʀ ༒۝꧂", url="https://t.me/cl_me_logesh"
+                    text="ᴄᴏᴅᴇ ᴏᴡɴᴇʀ", url="https://t.me/OneUnoOnly"
                 )              
         ],
           [
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
+                        "source code", url="http://github.com/UnoDark/Music-Bot"
                     )
                 ],
         ]
@@ -209,7 +209,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data="shikhar"
                 ),
             ],
             [
@@ -220,12 +220,12 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆official channel༒۝꧂", url=f"{SUPPORT_CHANNEL}"
+                    text="official channel", url=f"{SUPPORT_CHANNEL}"
                 ),
             ],
            [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -233,7 +233,7 @@ def private_panel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
+                        "source code", url="https://github.com/UnoDark/Music-Bot"
                     )
                 ],
         ]
@@ -242,7 +242,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆Commands༒۝꧂", callback_data="shikhar"
+                    text="Commands", callback_data="shikhar"
                 ),
             ],
             [
@@ -253,15 +253,15 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="🕊.⋆official channel༒۝꧂", url=f"{SUPPORT_CHANNEL}"
+                    text="official channel", url=f"{SUPPORT_CHANNEL}"
                 ),
                 InlineKeyboardButton(
-                    text="🕊.⋆official Group༒۝꧂", url=f"{SUPPORT_GROUP}"
+                    text="official Group", url=f"{SUPPORT_GROUP}"
                 ),
             ],
            [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -269,7 +269,7 @@ def private_panel():
 
        
                     InlineKeyboardButton(
-                        "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAB/Music-Bot"
+                        "source code", url="https://github.com/UnoDark/Music-Bot"
                     )
                 ],
         ]
@@ -367,7 +367,7 @@ def dashmarkup():
         [
             InlineKeyboardButton(text="💻 Cpu", callback_data="CPT"),
             InlineKeyboardButton(text="💽 Disk", callback_data="DIT"),
-            InlineKeyboardButton(text="♡𝑳𝑶𝑮𝑬𝑺𝑯 ⏤͟͟★", url="https://t.me/cl_me_logesh"),
+            InlineKeyboardButton(text="UNO", url="https://t.me/OneUnoOnly"),
          
         ],
         [InlineKeyboardButton(text="🔙 Go back", callback_data="settingm")],
