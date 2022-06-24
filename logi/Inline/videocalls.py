@@ -22,7 +22,7 @@ def choose_markup(videoid, duration, user_id):
         ],
        [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -44,7 +44,7 @@ def livestream_markup(quality, videoid, duration, user_id):
         ],
        [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -76,7 +76,7 @@ def stream_quality_markup(videoid, duration, user_id):
         ],
        [
           InlineKeyboardButton(
-                text="🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂",
+                text="OWNER",
                 url=f"https://t.me/{OWNER_USERNAME}",
             ),
         ],
